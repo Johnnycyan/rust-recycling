@@ -33,6 +33,9 @@ def scrape_recycler_data_all(url):
 
     # Parse the HTML content
     html_content = response.text
+    recycler_data = parse_recycler_data(html_content, no_safezone=True)
+    if recycler_data is None:
+        return None
     return parse_recycler_data(html_content, no_safezone=True)
 
 def parse_recycler_data(html_content, no_safezone=False):
@@ -41,17 +44,17 @@ def parse_recycler_data(html_content, no_safezone=False):
     # Look specifically for the recycling tab div
     recycling_tab = soup.find("div", id="recycling-tab")
     if not recycling_tab:
-        return "No recycling tab found in the HTML content."
+        return None
 
     # Find the table within the recycling tab
     table = recycling_tab.find("table")
     if not table:
-        return "No recycler table found within the recycling tab."
+        return None
 
     # Verify this is a recycling table by checking headers
     headers = [th.get_text().strip() for th in table.find_all("th")]
     if "Recycler" not in headers or "Guaranteed Output" not in headers:
-        return "Table found, but it doesn't appear to be a recycler table."
+        return None
 
     # Find all table rows (skip header row)
     rows = table.find("tbody").find_all("tr")
@@ -156,7 +159,7 @@ def parse_recycler_data(html_content, no_safezone=False):
 
     # If no data was found, the table might exist but not contain recycling data
     if not result:
-        return "The recycling table was found but no recycling data could be extracted."
+        return None
 
     return result
 

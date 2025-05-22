@@ -126,15 +126,15 @@ def generate_recycling_data():
     
     # Create data directory if it doesn't exist
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(script_dir, "data")
-    data_dir.mkdir(exist_ok=True)
+    data_dir = os.path.join(script_dir, "..", "data")
+    os.makedirs(data_dir, exist_ok=True)
     
     # Output file path
-    output_file = data_dir / "all_recycling_data.json"
+    output_file = os.path.join(data_dir, "all_recycling_data.json")
     
     # Process each item to get recycling data
     for item in items.values():
-        if failed > 200:
+        if failed > 400:
             print("Too many failures, stopping the process.")
             break
         item_name = item.get("name", "")
