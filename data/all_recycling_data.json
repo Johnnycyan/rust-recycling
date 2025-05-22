@@ -1,0 +1,9167 @@
+{
+  "Wolf Headdress": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Discord Trophy": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Fogger-3000": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Strobe Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Kayak": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Diver propulsion vehicle": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Roadsign Horse Armor": {
+    "guaranteed_output": [
+      {
+        "item": "Road Signs",
+        "quantity": "2"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Road Signs",
+        "chance": "40%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Wooden Horse Armor": {
+    "guaranteed_output": [
+      {
+        "item": "Rope",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Double Horse Saddle": {
+    "guaranteed_output": [
+      {
+        "item": "Road Signs",
+        "quantity": "3"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Single Horse Saddle": {
+    "guaranteed_output": [
+      {
+        "item": "Road Signs",
+        "quantity": "2"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Road Signs",
+        "chance": "40%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Saddle bag": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Quality Horse Shoes": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Basic Horse Shoes": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "MLRS Aiming Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Tech Trash",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "40%"
+      }
+    ]
+  },
+  "MLRS Rocket": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "120"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Hammerhead Bolt": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Incendiary Bolt": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "12"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Piercer Bolt": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pitchfork Bolt": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Mounted Ballista": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "150"
+      },
+      {
+        "item": "Sheet Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      },
+      {
+        "item": "Sheet Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Ballista": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "150"
+      },
+      {
+        "item": "Sheet Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      },
+      {
+        "item": "Sheet Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Battering Ram": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "60"
+      },
+      {
+        "item": "Sheet Metal",
+        "quantity": "2"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sheet Metal",
+        "chance": "40%"
+      },
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Propane Explosive Bomb": {
+    "guaranteed_output": [
+      {
+        "item": "Explosives",
+        "quantity": "3"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Explosives",
+        "chance": "60%"
+      },
+      {
+        "item": "Empty Propane Tank",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Firebomb": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "30"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "90"
+      },
+      {
+        "item": "Rope",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Scattershot": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Catapult": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      },
+      {
+        "item": "Rope",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      },
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Siege Tower": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "150"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "40mm Shotgun Round": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "4"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gun Powder",
+        "chance": "50%"
+      },
+      {
+        "item": "Metal Fragments",
+        "chance": "20%"
+      }
+    ]
+  },
+  "40mm HE Grenade": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Explosives",
+        "chance": "30%"
+      },
+      {
+        "item": "Metal Pipe",
+        "chance": "30%"
+      }
+    ]
+  },
+  "40mm Smoke Grenade": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "30%"
+      }
+    ]
+  },
+  "High Velocity Arrow": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Fragments",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Wooden Arrow": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "7"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wood",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Bone Arrow": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "2"
+      },
+      {
+        "item": "Wood",
+        "quantity": "5"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Fire Arrow": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Cloth",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bone Dart": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "7"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wood",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Handmade Shell": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "1"
+      },
+      {
+        "item": "Stones",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gun Powder",
+        "chance": "50%"
+      },
+      {
+        "item": "Stones",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Nailgun Nails": {
+    "guaranteed_output": [],
+    "extra_chance_output": [
+      {
+        "item": "Metal Fragments",
+        "chance": "96%"
+      }
+    ]
+  },
+  "Pistol Bullet": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gun Powder",
+        "chance": "75%"
+      },
+      {
+        "item": "Metal Fragments",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Incendiary Pistol Bullet": {
+    "guaranteed_output": [
+      {
+        "item": "Sulfur",
+        "quantity": "1"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "2"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "HV Pistol Ammo": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "1"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gun Powder",
+        "chance": "50%"
+      },
+      {
+        "item": "Metal Fragments",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Rocket": {
+    "guaranteed_output": [
+      {
+        "item": "Explosives",
+        "quantity": "6"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "90"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Incendiary Rocket": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "45"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "90"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "20%"
+      }
+    ]
+  },
+  "High Velocity Rocket": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Homing Missile": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "30%"
+      }
+    ]
+  },
+  "12 Gauge Buckshot": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "3"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Fragments",
+        "chance": "50%"
+      }
+    ]
+  },
+  "12 Gauge Incendiary Shell": {
+    "guaranteed_output": [
+      {
+        "item": "Sulfur",
+        "quantity": "6"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "3"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Fragments",
+        "chance": "50%"
+      }
+    ]
+  },
+  "12 Gauge Slug": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "3"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Fragments",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Speargun Spear": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "10"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Torpedo": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gun Powder",
+        "chance": "60%"
+      },
+      {
+        "item": "Metal Pipe",
+        "chance": "12%"
+      }
+    ]
+  },
+  "Sheet Metal Double Door": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Armored Double Door": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "3"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wood Double Door": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "210"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Sheet Metal Door": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Armored Door": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "3"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Door": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Floor grill": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Ladder Hatch": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "80%"
+      },
+      {
+        "item": "Wooden Ladder",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Floor triangle grill": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Triangle Ladder Hatch": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "80%"
+      },
+      {
+        "item": "Wooden Ladder",
+        "chance": "60%"
+      }
+    ]
+  },
+  "High External Adobe Gate": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Stones",
+        "quantity": "1,800"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "80%"
+      },
+      {
+        "item": "Sheet Metal",
+        "chance": "60%"
+      }
+    ]
+  },
+  "High External Frontier Gate": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "1,800"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      }
+    ]
+  },
+  "High External Stone Gate": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "3"
+      },
+      {
+        "item": "Stones",
+        "quantity": "1,800"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High External Wooden Gate": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "1,800"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Wooden Ladder": {
+    "guaranteed_output": [
+      {
+        "item": "Rope",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Legacy Wood Shelter": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "360"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High External Adobe Wall": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "800"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sheet Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "High External Frontier Wall": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "900"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High External Stone Wall": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "800"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sheet Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "High External Wooden Wall": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "800"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Prison Cell Gate": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Prison Cell Wall": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Chainlink Fence Gate": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Chainlink Fence": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Garage Door": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Netting": {
+    "guaranteed_output": [],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Shop Front": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Shop Front": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Window Bars": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Reinforced Glass Window": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Wooden Window Bars": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal horizontal embrasure": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Vertical embrasure": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Strengthened Glass Window": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wood Shutters": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Watch Tower": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Diving Fins": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Diving Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "42"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Diving Tank": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Wetsuit": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Frog Boots": {
+    "guaranteed_output": [],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "A Barrel Costume": "No recycling tab found in the HTML content.",
+  "Crate Costume": "No recycling tab found in the HTML content.",
+  "Gas Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "21"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Burlap Gloves": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Leather Gloves": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Roadsign Gloves": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "12"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Road Signs",
+        "chance": "60%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Tactical Gloves": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "12"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Dracula Cape": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Dracula Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Frankenstein Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Ghost Costume": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "60"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Mummy Suit": "No recycling tab found in the HTML content.",
+  "Mummy Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Scarecrow Suit": "No recycling tab found in the HTML content.",
+  "Scarecrow Wrap": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hockey Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "30"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "9"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Hide Halterneck": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Beenie Hat": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Boonie Hat": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bucket Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "21"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Burlap Headwrap": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Candle Hat": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "3"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Baseball Cap": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Clatter Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "21"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Coffee Can Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "36"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bone Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "18"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Heavy Plate Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      },
+      {
+        "item": "Sheet Metal",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Miners Hat": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Party Hat": "No recycling tab found in the HTML content.",
+  "Prisoner Hood": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Riot Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wellipets Hat": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wood Armor Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hoodie": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bone Armor": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "42"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Heavy Plate Jacket": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      },
+      {
+        "item": "Sheet Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      },
+      {
+        "item": "Sheet Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Snow Jacket": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "36"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Jacket": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Wood Chestplate": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Lumberjack Hoodie": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Improvised Balaclava": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bandana Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Facemask": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "30"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "9"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Night Vision Goggles": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      },
+      {
+        "item": "Tech Trash",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Ninja Suit": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "36"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Burlap Trousers": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Heavy Plate Pants": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      },
+      {
+        "item": "Sheet Metal",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Hide Pants": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Road Sign Kilt": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "6"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Road Signs",
+        "chance": "60%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Shorts": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wood Armor Pants": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pants": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Hide Poncho": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Burlap Shirt": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Shirt": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hide Vest": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tank Top": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Boots": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Burlap Shoes": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hide Boots": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hide Skirt": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bandit Guard Gear": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Arctic Suit": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Hazmat Suit": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Scientist Suit": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Arctic Scientist Suit": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "NVGM Scientist Suit": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Heavy Scientist Suit": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Blue Jumpsuit": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Jumpsuit": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Waterwell NPC Jumpsuit": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Longsleeve T-Shirt": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "T-Shirt": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Chest Plate": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "30"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "10"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "4"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Road Sign Jacket": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "12"
+      },
+      {
+        "item": "Road Signs",
+        "quantity": "1"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Road Signs",
+        "chance": "20%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Asbestos Armor Insert": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Lead Armor Insert": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Metal Armor Insert": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Armor Insert": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bleach": "No recycling tab found in the HTML content.",
+  "Duct Tape": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Glue",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Low Quality Carburetor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medium Quality Carburetor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Quality Carburetor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "102"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Low Quality Crankshaft": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medium Quality Crankshaft": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "42"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Quality Crankshaft": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Low Quality Pistons": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medium Quality Pistons": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "42"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Quality Pistons": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Low Quality Spark Plugs": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medium Quality Spark Plugs": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "42"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Quality Spark Plugs": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Low Quality Valves": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medium Quality Valves": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "42"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Quality Valves": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Electric Fuse": {
+    "guaranteed_output": [
+      {
+        "item": "Scrap",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Gears": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Glue": "No recycling tab found in the HTML content.",
+  "Metal Blade": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Pipe": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Empty Propane Tank": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Road Signs": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Rope": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Sewing Kit": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Rope",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Sheet Metal": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Metal Spring": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Sticks": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tarp": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tech Trash": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Rifle Body": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Semi Automatic Body": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "SMG Body": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Concrete Barricade": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Barricade Cover": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medieval Barricade": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Barricade": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Metal Blade",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Blade",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Sandbag Barricade": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Stones",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Stone Barricade": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Barricade": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Barbed Wooden Barricade": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Barbeque": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "24"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Snap Trap": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bed": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "36"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Beehive": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Camp Fire": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Ceiling Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Chair": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Ice Throne": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Chicken Coop": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Clan Table": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "240"
+      },
+      {
+        "item": "Wood",
+        "quantity": "240"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Composter": {
+    "guaranteed_output": [
+      {
+        "item": "Tarp",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Computer Station": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "RF Broadcaster",
+        "chance": "60%"
+      },
+      {
+        "item": "RF Receiver",
+        "chance": "60%"
+      },
+      {
+        "item": "Targeting Computer",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Cooking Workbench": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Stones",
+        "quantity": "120"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Drone": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "CCTV Camera",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Drop Box": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Elevator": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      },
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Stone Fireplace": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "300"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Blue Boomer": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "9"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Champagne Boomer": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "18"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "45"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Green Boomer": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "9"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Orange Boomer": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "9"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pattern Boomer": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "9"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Red Boomer": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "9"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Violet Boomer": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "9"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Blue Roman Candle": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Green Roman Candle": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Red Roman Candle": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Violet Roman Candle": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "White Volcano Firework": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Red Volcano Firework": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Violet Volcano Firework": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Floor Spikes": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Frankenstein Table": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Fridge": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Furnace": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "45"
+      },
+      {
+        "item": "Stones",
+        "quantity": "300"
+      },
+      {
+        "item": "Wood",
+        "quantity": "360"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Furnace": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "30"
+      },
+      {
+        "item": "Stones",
+        "quantity": "120"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hazmat Plushy": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hopper": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Hot Air Balloon Armor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Engineering Workbench": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Jack O Lantern Angry": {
+    "guaranteed_output": [
+      {
+        "item": "Pumpkin",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Pumpkin",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Jack O Lantern Happy": {
+    "guaranteed_output": [
+      {
+        "item": "Pumpkin",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Pumpkin",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Homemade Landmine": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Lantern": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Wood Box": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Water Barrel": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Locker": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Lunar Wall Frame Inlay": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Lunar Wall Frame Swirling": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Lunar Wall Frame Floral": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Mail Box": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Mixing Table": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Stones",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Modular Car Lift": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Pump Jack": "No recycling tab found in the HTML content.",
+  "Small Oil Refinery": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "150"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "300"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Single Plant Pot": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Planter Box": {
+    "guaranteed_output": [
+      {
+        "item": "Tarp",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Small Planter Box": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Triangle Planter Box": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Audio Alarm": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Smart Alarm": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Smart Switch": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Storage Monitor": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Large Rechargeable Battery": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      },
+      {
+        "item": "Tech Trash",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Medium Rechargeable Battery": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Small Rechargeable Battery": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Button": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Counter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "HBHF Sensor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Laser Detector": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pressure Pad": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Tin Can Alarm": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Digital Clock": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Door Controller": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Electric Furnace": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Electric Heater": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Fluid Combiner": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Fluid Splitter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "AND Switch": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Blocker": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Electrical Branch": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Root Combiner": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Memory Cell": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "OR Switch": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "RAND Switch": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "RF Broadcaster": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "RF Receiver": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "XOR Switch": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Small Generator": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Test Generator": {
+    "guaranteed_output": [
+      {
+        "item": "Electric Fuse",
+        "quantity": "2"
+      },
+      {
+        "item": "Gears",
+        "quantity": "2"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "15"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Electric Fuse",
+        "chance": "40%"
+      },
+      {
+        "item": "Gears",
+        "chance": "40%"
+      },
+      {
+        "item": "Metal Pipe",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Large Solar Panel": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Igniter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Storage Adaptor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Industrial Combiner": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Industrial Conveyor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Industrial Crafter": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Tech Trash",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Industrial Splitter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Flasher Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Simple Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Siren Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Powered Water Purifier": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "180"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Seismic Sensor": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Switch": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Splitter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Sprinkler": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tesla Coil": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Timer": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Cable Tunnel": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Water Pump": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "PTZ CCTV Camera": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "CCTV Camera",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Mining Quarry": "No recycling tab found in the HTML content.",
+  "Reactive Target": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Repair Bench": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Research Table": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Rug Bear Skin": {
+    "guaranteed_output": [
+      {
+        "item": "Leather",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Rug": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Ice Sculpture": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Search Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Salvaged Shelves": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Banner Hanging": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Two Sided Hanging Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Two Sided Ornate Hanging Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Landscape Picture Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Portrait Picture Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tall Picture Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "XL Picture Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "XXL Picture Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      },
+      {
+        "item": "Wood",
+        "quantity": "105"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Banner on pole": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Double Sign Post": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Single Sign Post": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "One Sided Town Sign Post": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Two Sided Town Sign Post": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Huge Wooden Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Wooden Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medium Wooden Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Small Wooden Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Shotgun Trap": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "150"
+      },
+      {
+        "item": "Rope",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      },
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Sleeping Bag": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Small Stash": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Sofa": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Spinning wheel": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Survival Fish Trap": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Table": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Workbench Level 1": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Workbench Level 2": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "300"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Workbench Level 3": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "600"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tool Cupboard": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "600"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tuna Can Lamp": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Empty Tuna Can",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Vending Machine": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Large Water Catcher": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Small Water Catcher": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Water Purifier": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Empty Propane Tank",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Horizontal Weapon Rack": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Frontier Bolts Single Item Rack": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Frontier Horseshoe Single Item Rack": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Frontier Horns Single Item Rack": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Weapon Rack Stand": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tall Weapon Rack": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "105"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wide Weapon Rack": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "105"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wind Turbine": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      },
+      {
+        "item": "Sheet Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "80%"
+      },
+      {
+        "item": "Sheet Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Wood Storage Box": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hazmat Youtooz": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Heavy Scientist Youtooz": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Apple": "No recycling tab found in the HTML content.",
+  "Rotten Apple": "No recycling tab found in the HTML content.",
+  "Black Raspberries": "No recycling tab found in the HTML content.",
+  "Blueberries": "No recycling tab found in the HTML content.",
+  "Bota Bag": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bread Loaf": "No recycling tab found in the HTML content.",
+  "Grub": "No recycling tab found in the HTML content.",
+  "Worm": "No recycling tab found in the HTML content.",
+  "Cactus Flesh": "No recycling tab found in the HTML content.",
+  "Can of Beans": "No recycling tab found in the HTML content.",
+  "Can of Tuna": "No recycling tab found in the HTML content.",
+  "Chocolate Bar": "No recycling tab found in the HTML content.",
+  "Egg": "No recycling tab found in the HTML content.",
+  "Anchovy": "No recycling tab found in the HTML content.",
+  "Catfish": "No recycling tab found in the HTML content.",
+  "Herring": "No recycling tab found in the HTML content.",
+  "Minnows": "No recycling tab found in the HTML content.",
+  "Orange Roughy": "No recycling tab found in the HTML content.",
+  "Salmon": "No recycling tab found in the HTML content.",
+  "Sardine": "No recycling tab found in the HTML content.",
+  "Small Shark": "No recycling tab found in the HTML content.",
+  "Small Trout": "No recycling tab found in the HTML content.",
+  "Yellow Perch": "No recycling tab found in the HTML content.",
+  "Granola Bar": "No recycling tab found in the HTML content.",
+  "Jar of Honey": "No recycling tab found in the HTML content.",
+  "Beehive Nucleus": "No recycling tab found in the HTML content.",
+  "Burnt Bear Meat": "No recycling tab found in the HTML content.",
+  "Cooked Bear Meat": "No recycling tab found in the HTML content.",
+  "Raw Bear Meat": "No recycling tab found in the HTML content.",
+  "Spoiled Bear Meat": "No recycling tab found in the HTML content.",
+  "Burnt Chicken": "No recycling tab found in the HTML content.",
+  "Cooked Chicken": "No recycling tab found in the HTML content.",
+  "Raw Chicken Breast": "No recycling tab found in the HTML content.",
+  "Spoiled Chicken": "No recycling tab found in the HTML content.",
+  "Burnt Deer Meat": "No recycling tab found in the HTML content.",
+  "Cooked Deer Meat": "No recycling tab found in the HTML content.",
+  "Raw Deer Meat": "No recycling tab found in the HTML content.",
+  "Spoiled Deer Meat": "No recycling tab found in the HTML content.",
+  "Cooked Fish": "No recycling tab found in the HTML content.",
+  "Raw Fish": "No recycling tab found in the HTML content.",
+  "Spoiled Fish Meat": "No recycling tab found in the HTML content.",
+  "Burnt Horse Meat": "No recycling tab found in the HTML content.",
+  "Cooked Horse Meat": "No recycling tab found in the HTML content.",
+  "Raw Horse Meat": "No recycling tab found in the HTML content.",
+  "Spoiled Horse Meat": "No recycling tab found in the HTML content.",
+  "Burnt Human Meat": "No recycling tab found in the HTML content.",
+  "Cooked Human Meat": "No recycling tab found in the HTML content.",
+  "Raw Human Meat": "No recycling tab found in the HTML content.",
+  "Spoiled Human Meat": "No recycling tab found in the HTML content.",
+  "Burnt Pork": "No recycling tab found in the HTML content.",
+  "Cooked Pork": "No recycling tab found in the HTML content.",
+  "Raw Pork": "No recycling tab found in the HTML content.",
+  "Spoiled Pork Meat": "No recycling tab found in the HTML content.",
+  "Burnt Wolf Meat": "No recycling tab found in the HTML content.",
+  "Cooked Wolf Meat": "No recycling tab found in the HTML content.",
+  "Raw Wolf Meat": "No recycling tab found in the HTML content.",
+  "Spoiled Wolf Meat": "No recycling tab found in the HTML content.",
+  "Mushroom": "No recycling tab found in the HTML content.",
+  "Pickles": "No recycling tab found in the HTML content.",
+  "Apple Pie": "No recycling tab found in the HTML content.",
+  "Bear Pie": "No recycling tab found in the HTML content.",
+  "Chicken Pie": "No recycling tab found in the HTML content.",
+  "Fish Pie": "No recycling tab found in the HTML content.",
+  "Hunters Pie": "No recycling tab found in the HTML content.",
+  "Pork Pie": "No recycling tab found in the HTML content.",
+  "Pumpkin Pie": "No recycling tab found in the HTML content.",
+  "Small Water Bottle": "No recycling tab found in the HTML content.",
+  "Water Jug": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Shovel Bass": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Cowbell": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "21"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Junkyard Drum Kit": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pan Flute": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Acoustic Guitar": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Jerry Can Guitar": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wheelbarrow Piano": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Canbourine": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Sousaphone": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Xylobone": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Door Key": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Key Lock": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Code Lock": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Chinese Lantern": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "3"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Chinese Lantern White": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "3"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Dragon Door Knocker": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Dragon Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "New Year Gong": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Ox Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Rabbit Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Rat Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Sky Lantern": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "3"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Snake mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Firecracker String": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tiger Mask": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Chippy Arcade Game": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Confetti Cannon": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Frontier Bar Doors": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bath Tub Planter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Head Bag": "No recycling tab found in the HTML content.",
+  "Fish Trophy": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Hunting Trophy": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Small Hunting Trophy": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Minecart Planter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Rail Road Planter": {
+    "guaranteed_output": [
+      {
+        "item": "Tarp",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Triangle Rail Road Planter": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Rocking Chair": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "78"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Skinning Knife": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Storage Barrel Vertical": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Storage Barrel Horizontal": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Torch Holder": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wanted Poster": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Door Closer": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bunny Ears": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bunny Onesie": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bunny Hat": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Chicken Costume": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Easter Door Wreath": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Egg Basket": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Egg Suit": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "36"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Horse Costume": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Nest Hat": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wolf Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bronze Egg": "No recycling tab found in the HTML content.",
+  "Gold Egg": "No recycling tab found in the HTML content.",
+  "Painted Egg": "No recycling tab found in the HTML content.",
+  "Silver Egg": "No recycling tab found in the HTML content.",
+  "Halloween Candy": "No recycling tab found in the HTML content.",
+  "Large Candle Set": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Small Candle Set": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Carvable Pumpkin": {
+    "guaranteed_output": [],
+    "extra_chance_output": [
+      {
+        "item": "Pumpkin",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Coffin": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "480"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Cursed Cauldron": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Gravestone": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "240"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Cross": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "240"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Light Frankenstein Head": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "12"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "6"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Light Frankenstein Legs": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "12"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "6"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Light Frankenstein Torso": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "12"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "6"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Medium Frankenstein Head": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "12"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "6"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Medium Frankenstein Legs": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "12"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "6"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Medium Frankenstein Torso": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "12"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "6"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Heavy Frankenstein Head": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "18"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "9"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Heavy Frankenstein Legs": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "18"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "9"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Heavy Frankenstein Torso": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "18"
+      },
+      {
+        "item": "Animal Fat",
+        "quantity": "9"
+      },
+      {
+        "item": "Raw Human Meat",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Raw Human Meat",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Graveyard Fence": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Stones",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Loot Bag": "No recycling tab found in the HTML content.",
+  "Medium Loot Bag": "No recycling tab found in the HTML content.",
+  "Small Loot Bag": "No recycling tab found in the HTML content.",
+  "Pumpkin Basket": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Scarecrow": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Skull Spikes": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Human Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Skull Door Knocker": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Skull Fire Pit": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Human Skull",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Spider Webs": "No recycling tab found in the HTML content.",
+  "Spooky Speaker": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "240"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Surgeon Scrubs": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "36"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Skull Trophy": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Backpack": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "60"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Light-Up Frame Large": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Movember Moustache": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Note": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Parachute": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      },
+      {
+        "item": "Tarp",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Green Industrial Wall Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Industrial Wall Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Red Industrial Wall Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pinata": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Human Skull": "No recycling tab found in the HTML content.",
+  "Small Backpack": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Above Ground Pool": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Beach Chair": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Beach Parasol": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Beach Table": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Beach Towel": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Boogie Board": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Inner Tube": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Instant Camera": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Paddling Pool": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tarp",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Photograph": "No recycling tab found in the HTML content.",
+  "Landscape Photo Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Photo Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Portrait Photo Frame": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Water Gun": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Water Pistol": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Twitch Rivals Trophy": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Twitch Rivals Trophy 2023": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Purple Sunglasses": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Headset": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hobo Barrel": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Twitch Rivals Flag": "No recycling tab found in the HTML content.",
+  "Advent Calendar": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Candy Cane Club": "No recycling tab found in the HTML content.",
+  "Christmas Lights": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Festive Doorway Garland": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Festive Double Doorway Garland": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Candy Cane": "No recycling tab found in the HTML content.",
+  "Giant Candy Decor": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Short Ice Wall": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Ice Wall": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "600"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Giant Lollipop Decor": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Small Neon Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medium Animated Neon Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "180"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Medium Neon Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Animated Neon Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "210"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Neon Sign": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pookie Bear": "No recycling tab found in the HTML content.",
+  "Deluxe Christmas Lights": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Present": "No recycling tab found in the HTML content.",
+  "Medium Present": "No recycling tab found in the HTML content.",
+  "Small Present": "No recycling tab found in the HTML content.",
+  "Sled": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "300"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Snow Machine": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Snowball": "No recycling tab found in the HTML content.",
+  "Snowball Gun": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "15"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Snowman": {
+    "guaranteed_output": [
+      {
+        "item": "Charcoal",
+        "quantity": "30"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "SUPER Stocking": "No recycling tab found in the HTML content.",
+  "Small Stocking": "No recycling tab found in the HTML content.",
+  "Gingerbread Suit": "No recycling tab found in the HTML content.",
+  "Reindeer Antlers": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Santa Beard": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Santa Hat": "No recycling tab found in the HTML content.",
+  "Snowman Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Festive Window Garland": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wrapped Gift": "No recycling tab found in the HTML content.",
+  "Wrapping Paper": "No recycling tab found in the HTML content.",
+  "Christmas Door Wreath": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Decorative Baubels": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Decorative Plastic Candy Canes": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Decorative Gingerbread Men": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Tree Lights": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Decorative Pinecones": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Star Tree Topper": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Decorative Tinsel": {
+    "guaranteed_output": [
+      {
+        "item": "Scrap",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Christmas Tree": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Fishing Tackle": "No recycling tab found in the HTML content.",
+  "Vodka Bottle": "No recycling tab found in the HTML content.",
+  "Auto Turret": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "CCTV Camera",
+        "chance": "60%"
+      },
+      {
+        "item": "Targeting Computer",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Flame Turret": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "Empty Propane Tank",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      },
+      {
+        "item": "Empty Propane Tank",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Glowing Eyes": "No recycling tab found in the HTML content.",
+  "SAM Ammo": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "10%"
+      }
+    ]
+  },
+  "SAM Site": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Black Berry": "No recycling tab found in the HTML content.",
+  "Black Berry Clone": "No recycling tab found in the HTML content.",
+  "Black Berry Seed": "No recycling tab found in the HTML content.",
+  "Blue Berry": "No recycling tab found in the HTML content.",
+  "Blue Berry Clone": "No recycling tab found in the HTML content.",
+  "Blue Berry Seed": "No recycling tab found in the HTML content.",
+  "Green Berry": "No recycling tab found in the HTML content.",
+  "Green Berry Clone": "No recycling tab found in the HTML content.",
+  "Green Berry Seed": "No recycling tab found in the HTML content.",
+  "Red Berry": "No recycling tab found in the HTML content.",
+  "Red Berry Clone": "No recycling tab found in the HTML content.",
+  "Red Berry Seed": "No recycling tab found in the HTML content.",
+  "White Berry": "No recycling tab found in the HTML content.",
+  "White Berry Clone": "No recycling tab found in the HTML content.",
+  "White Berry Seed": "No recycling tab found in the HTML content.",
+  "Yellow Berry": "No recycling tab found in the HTML content.",
+  "Yellow Berry Clone": "No recycling tab found in the HTML content.",
+  "Yellow Berry Seed": "No recycling tab found in the HTML content.",
+  "Corn": "No recycling tab found in the HTML content.",
+  "Corn Clone": "No recycling tab found in the HTML content.",
+  "Corn Seed": "No recycling tab found in the HTML content.",
+  "Hemp Clone": "No recycling tab found in the HTML content.",
+  "Hemp Seed": "No recycling tab found in the HTML content.",
+  "Orchid": "No recycling tab found in the HTML content.",
+  "Orchid Clone": "No recycling tab found in the HTML content.",
+  "Orchid Seed": "No recycling tab found in the HTML content.",
+  "Potato": "No recycling tab found in the HTML content.",
+  "Potato Clone": "No recycling tab found in the HTML content.",
+  "Potato Seed": "No recycling tab found in the HTML content.",
+  "Pumpkin": "No recycling tab found in the HTML content.",
+  "Pumpkin Plant Clone": "No recycling tab found in the HTML content.",
+  "Pumpkin Seed": "No recycling tab found in the HTML content.",
+  "Rose": "No recycling tab found in the HTML content.",
+  "Rose Clone": "No recycling tab found in the HTML content.",
+  "Rose Seed": "No recycling tab found in the HTML content.",
+  "Sunflower": "No recycling tab found in the HTML content.",
+  "Sunflower Clone": "No recycling tab found in the HTML content.",
+  "Sunflower Seed": "No recycling tab found in the HTML content.",
+  "Wheat": "No recycling tab found in the HTML content.",
+  "Wheat Clone": "No recycling tab found in the HTML content.",
+  "Wheat Seed": "No recycling tab found in the HTML content.",
+  "Animal Fat": "No recycling tab found in the HTML content.",
+  "Blood": "No recycling tab found in the HTML content.",
+  "Bone Fragments": "No recycling tab found in the HTML content.",
+  "CCTV Camera": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Tech Trash",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Charcoal": "No recycling tab found in the HTML content.",
+  "Cloth": "No recycling tab found in the HTML content.",
+  "Crude Oil": "No recycling tab found in the HTML content.",
+  "Diesel Fuel": "No recycling tab found in the HTML content.",
+  "Empty Can Of Beans": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Empty Tuna Can": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Fragments",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Explosives": {
+    "guaranteed_output": [
+      {
+        "item": "Sulfur",
+        "quantity": "6"
+      },
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "1"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "30"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Low Grade Fuel",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Fertilizer": "No recycling tab found in the HTML content.",
+  "Gun Powder": {
+    "guaranteed_output": [
+      {
+        "item": "Sulfur",
+        "quantity": "1"
+      },
+      {
+        "item": "Charcoal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Sulfur",
+        "chance": "20%"
+      },
+      {
+        "item": "Charcoal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Honeycomb": "No recycling tab found in the HTML content.",
+  "Horse Dung": "No recycling tab found in the HTML content.",
+  "High Quality Metal Ore": "No recycling tab found in the HTML content.",
+  "High Quality Metal": "No recycling tab found in the HTML content.",
+  "Leather": "No recycling tab found in the HTML content.",
+  "Low Grade Fuel": {
+    "guaranteed_output": [],
+    "extra_chance_output": [
+      {
+        "item": "Cloth",
+        "chance": "15%"
+      },
+      {
+        "item": "Animal Fat",
+        "chance": "45%"
+      }
+    ]
+  },
+  "Metal Fragments": "No recycling tab found in the HTML content.",
+  "Metal Ore": "No recycling tab found in the HTML content.",
+  "Plant Fiber": "No recycling tab found in the HTML content.",
+  "Radioactive Water": "No recycling tab found in the HTML content.",
+  "Salt Water": "No recycling tab found in the HTML content.",
+  "Scrap": "No recycling tab found in the HTML content.",
+  "Stones": "No recycling tab found in the HTML content.",
+  "Sulfur Ore": "No recycling tab found in the HTML content.",
+  "Sulfur": "No recycling tab found in the HTML content.",
+  "Targeting Computer": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      },
+      {
+        "item": "Tech Trash",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Water": "No recycling tab found in the HTML content.",
+  "Wolf Skull": "No recycling tab found in the HTML content.",
+  "Wood": "No recycling tab found in the HTML content.",
+  "Cooling Tea": "No recycling tab found in the HTML content.",
+  "Crafting Quality Tea": "No recycling tab found in the HTML content.",
+  "Harvesting Tea": "No recycling tab found in the HTML content.",
+  "Advanced Healing Tea": "No recycling tab found in the HTML content.",
+  "Basic Healing Tea": "No recycling tab found in the HTML content.",
+  "Pure Healing Tea": "No recycling tab found in the HTML content.",
+  "Advanced Max Health Tea": "No recycling tab found in the HTML content.",
+  "Basic Max Health Tea": "No recycling tab found in the HTML content.",
+  "Pure Max Health Tea": "No recycling tab found in the HTML content.",
+  "Advanced Ore Tea": "No recycling tab found in the HTML content.",
+  "Basic Ore Tea": "No recycling tab found in the HTML content.",
+  "Pure Ore Tea": "No recycling tab found in the HTML content.",
+  "Advanced Anti-Rad Tea": "No recycling tab found in the HTML content.",
+  "Basic Anti-Rad Tea": "No recycling tab found in the HTML content.",
+  "Pure Anti-Rad Tea": "No recycling tab found in the HTML content.",
+  "Advanced Scrap Tea": "No recycling tab found in the HTML content.",
+  "Basic Scrap Tea": "No recycling tab found in the HTML content.",
+  "Pure Scrap Tea": "No recycling tab found in the HTML content.",
+  "Super Serum": "No recycling tab found in the HTML content.",
+  "Warming Tea": "No recycling tab found in the HTML content.",
+  "Advanced Wood Tea": "No recycling tab found in the HTML content.",
+  "Basic Wood Tea": "No recycling tab found in the HTML content.",
+  "Pure Wood Tea": "No recycling tab found in the HTML content.",
+  "Anti-Radiation Pills": "No recycling tab found in the HTML content.",
+  "Binoculars": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Timed Explosive Charge": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      },
+      {
+        "item": "Explosives",
+        "quantity": "12"
+      },
+      {
+        "item": "Tech Trash",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Camera": "No recycling tab found in the HTML content.",
+  "RF Transmitter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Handmade Fishing Rod": {
+    "guaranteed_output": [
+      {
+        "item": "Rope",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Flare": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Flashlight": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Geiger Counter": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Handcuffs": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "42"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hose Tool": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Jackhammer": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Blade",
+        "quantity": "3"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "36"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Blue Keycard": "No recycling tab found in the HTML content.",
+  "Green Keycard": "No recycling tab found in the HTML content.",
+  "Red Keycard": "No recycling tab found in the HTML content.",
+  "Large Medkit": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Medical Syringe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Medical Syringe",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Paper Map": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Medical Syringe": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "6"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Detector": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      },
+      {
+        "item": "Rope",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "RF Pager": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pipe Tool": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Building Plan": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Shovel": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Smoke Grenade": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "21"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Spray Can": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Supply Signal": "No recycling tab found in the HTML content.",
+  "Survey Charge": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "12"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      },
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Walkie Talkie": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Wire Tool": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Cockpit Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Armored Cockpit Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Cockpit With Engine Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Engine Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Flatbed Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Armored Passenger Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Rear Seats Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Storage Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Taxi Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "105"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      },
+      {
+        "item": "Wood",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Camper Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "105"
+      },
+      {
+        "item": "Wood",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Large Flatbed Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Fuel Tank Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "105"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Passenger Vehicle Module": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "105"
+      },
+      {
+        "item": "Wood",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Car Radio": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Boom Box": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Portable Boom Box": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "72"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Cassette Recorder": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Disco Ball": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Disco Floor": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Connected Speaker": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Laser Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Megaphone": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Microphone Stand": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Mobile Phone": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Sound Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Telephone": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Wallpaper": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Variable Zoom Scope": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "48"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Burst Module": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Extended Magazine": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Weapon flashlight": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Gas Compression Overdrive": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Holosight": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "7"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Weapon Lasersight": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Muzzle Boost": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Muzzle Brake": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Simple Handmade Sight": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Silencer": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "8x Zoom Scope": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Assault Rifle": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "30"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "2"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Spring",
+        "chance": "40%"
+      },
+      {
+        "item": "Rifle Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bandage": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Cloth",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Beancan Grenade": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "36"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bee Grenade": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Beehive Nucleus",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bolt Action Rifle": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "80%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      },
+      {
+        "item": "Rifle Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Bone Club": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bone Knife": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hunting Bow": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Birthday Cake": "No recycling tab found in the HTML content.",
+  "Chainsaw": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      },
+      {
+        "item": "Metal Blade",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      },
+      {
+        "item": "Metal Blade",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Salvaged Cleaver": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Road Signs",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Lunar New Year Spear": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Compound Bow": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Rope",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Crossbow": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Rope",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Double Barrel Shotgun": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "105"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Eoka Pistol": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      },
+      {
+        "item": "Wood",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "F1 Grenade": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "18"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Flame Thrower": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "60"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "3"
+      },
+      {
+        "item": "Empty Propane Tank",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      },
+      {
+        "item": "Empty Propane Tank",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Flashbang": {
+    "guaranteed_output": [
+      {
+        "item": "Gun Powder",
+        "quantity": "15"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Prototype 17": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      },
+      {
+        "item": "Burst Module",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      },
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      },
+      {
+        "item": "Semi Automatic Body",
+        "chance": "60%"
+      },
+      {
+        "item": "Burst Module",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Multiple Grenade Launcher": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "15"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Baseball Bat": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Butcher Knife": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Pitchfork": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Sickle": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Cultist Deer Torch": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Low Grade Fuel",
+        "chance": "60%"
+      },
+      {
+        "item": "Cloth",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Vampire Stake": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hammer": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Hatchet": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "High Caliber Revolver": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      },
+      {
+        "item": "High Quality Metal",
+        "chance": "60%"
+      },
+      {
+        "item": "Metal Pipe",
+        "chance": "40%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      }
+    ]
+  },
+  "HMLMG": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "1"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "36"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "20%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "80%"
+      },
+      {
+        "item": "Rifle Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Homing Missile Launcher": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "CCTV Camera",
+        "chance": "60%"
+      },
+      {
+        "item": "Metal Pipe",
+        "chance": "80%"
+      },
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Improvised Shield": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Leather",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Combat Knife": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Sunken Combat Knife": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "60%"
+      }
+    ]
+  },
+  "L96 Rifle": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "24"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "3"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      },
+      {
+        "item": "Rifle Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "M249": {
+    "guaranteed_output": [
+      {
+        "item": "Gears",
+        "quantity": "3"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "24"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      },
+      {
+        "item": "Rifle Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "M39 Rifle": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "30"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Spring",
+        "chance": "40%"
+      },
+      {
+        "item": "Rifle Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "M4 Shotgun": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "2"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "40%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "80%"
+      }
+    ]
+  },
+  "M92 Pistol": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "15"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      },
+      {
+        "item": "Semi Automatic Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Mace": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Machete": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "24"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Metal Shield": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "30"
+      },
+      {
+        "item": "Leather",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Military Flame Thrower": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "60"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "21"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "4"
+      },
+      {
+        "item": "Empty Propane Tank",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "80%"
+      },
+      {
+        "item": "Empty Propane Tank",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Mini Crossbow": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "90"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Gears",
+        "chance": "60%"
+      },
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Minigun": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "30"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "7"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "3"
+      },
+      {
+        "item": "Rifle Body",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "20%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      },
+      {
+        "item": "Rifle Body",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Molotov Cocktail": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "30"
+      },
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "MP5A4": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Spring",
+        "chance": "20%"
+      },
+      {
+        "item": "SMG Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Nailgun": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Scrap",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Paddle": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "9"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Blade",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Pickaxe": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "75"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Waterpipe Shotgun": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "90"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Python Revolver": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "80%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Reinforced Wooden Shield": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Road Signs",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Revolver": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      },
+      {
+        "item": "Metal Fragments",
+        "quantity": "75"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Rock": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Rocket Launcher": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "24"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "40%"
+      }
+    ]
+  },
+  "Salvaged Axe": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Blade",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Salvaged Hammer": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "30"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Salvaged Icepick": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Blade",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Satchel Charge": {
+    "guaranteed_output": [
+      {
+        "item": "Beancan Grenade",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Beancan Grenade",
+        "chance": "40%"
+      },
+      {
+        "item": "Rope",
+        "chance": "60%"
+      },
+      {
+        "item": "Small Stash",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Pump Shotgun": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "9"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "20%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Semi-Automatic Pistol": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "2"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "40%"
+      },
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      },
+      {
+        "item": "Semi Automatic Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "SKS": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "7"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "20%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "20%"
+      },
+      {
+        "item": "Semi Automatic Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Custom SMG": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      },
+      {
+        "item": "SMG Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Spas-12 Shotgun": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "12"
+      },
+      {
+        "item": "Metal Pipe",
+        "quantity": "2"
+      },
+      {
+        "item": "Metal Spring",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "40%"
+      },
+      {
+        "item": "Metal Spring",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Speargun": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Empty Propane Tank",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Stone Hatchet": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Stone Pickaxe": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "60"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Stone Spear": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wooden Spear",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Longsword": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "60"
+      },
+      {
+        "item": "Metal Blade",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Blade",
+        "chance": "20%"
+      }
+    ]
+  },
+  "Salvaged Sword": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "9"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Blade",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Handmade SMG": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "120"
+      },
+      {
+        "item": "High Quality Metal",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Thompson": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Spring",
+        "chance": "60%"
+      },
+      {
+        "item": "SMG Body",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Torch": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Low Grade Fuel",
+        "chance": "60%"
+      },
+      {
+        "item": "Cloth",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Water Bucket": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "12"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Shield": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "12"
+      },
+      {
+        "item": "Wood",
+        "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wooden Spear": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  }
+}
