@@ -125,7 +125,8 @@ def generate_recycling_data():
     print(f"Start time: {start_time}")
     
     # Create data directory if it doesn't exist
-    data_dir = Path("c:/Users/john/Documents/Coding/rust-recycling/data")
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(script_dir, "data")
     data_dir.mkdir(exist_ok=True)
     
     # Output file path
