@@ -20,15 +20,15 @@ def scrape_recycler_data(url):
     html_content = response.text
     return parse_recycler_data(html_content)
 
-def scrape_recycler_data_all(url):
+def scrape_recycler_data_all(url, timeout=30):
     # Send HTTP request to the webpage
     try:
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         }
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=timeout)
         response.raise_for_status()  # Raise an exception for bad status codes
-    except requests.exceptions.RequestException as e:
+    except (requests.exceptions.RequestException, requests.exceptions.Timeout) as e:
         return None
 
     # Parse the HTML content
@@ -36,7 +36,7 @@ def scrape_recycler_data_all(url):
     recycler_data = parse_recycler_data(html_content, no_safezone=True)
     if recycler_data is None:
         return None
-    return parse_recycler_data(html_content, no_safezone=True)
+    return recycler_data
 
 def parse_recycler_data(html_content, no_safezone=False):
     soup = BeautifulSoup(html_content, "html.parser")

@@ -165,7 +165,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "generate-recycling-data":
         # If the script is run with the argument "generate-recycling-data", call the function directly
         generate_recycling_data()
-        input("Press Enter to exit...")
         os._exit(0)
     # If the script is run without arguments, start the FastAPI app
     # Run the FastAPI app using uvicorn

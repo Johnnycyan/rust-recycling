@@ -1336,8 +1336,6 @@
       }
     ]
   },
-  "A Barrel Costume": "No recycling tab found in the HTML content.",
-  "Crate Costume": "No recycling tab found in the HTML content.",
   "Gas Mask": {
     "guaranteed_output": [
       {
@@ -1454,7 +1452,6 @@
       }
     ]
   },
-  "Mummy Suit": "No recycling tab found in the HTML content.",
   "Mummy Mask": {
     "guaranteed_output": [
       {
@@ -1464,7 +1461,6 @@
     ],
     "extra_chance_output": []
   },
-  "Scarecrow Suit": "No recycling tab found in the HTML content.",
   "Scarecrow Wrap": {
     "guaranteed_output": [
       {
@@ -1638,7 +1634,6 @@
     ],
     "extra_chance_output": []
   },
-  "Party Hat": "No recycling tab found in the HTML content.",
   "Prisoner Hood": {
     "guaranteed_output": [
       {
@@ -2371,7 +2366,6 @@
     ],
     "extra_chance_output": []
   },
-  "Bleach": "No recycling tab found in the HTML content.",
   "Duct Tape": {
     "guaranteed_output": [
       {
@@ -2543,7 +2537,6 @@
     ],
     "extra_chance_output": []
   },
-  "Glue": "No recycling tab found in the HTML content.",
   "Metal Blade": {
     "guaranteed_output": [
       {
@@ -3590,7 +3583,6 @@
       }
     ]
   },
-  "Pump Jack": "No recycling tab found in the HTML content.",
   "Small Oil Refinery": {
     "guaranteed_output": [
       {
@@ -4281,7 +4273,6 @@
       }
     ]
   },
-  "Mining Quarry": "No recycling tab found in the HTML content.",
   "Reactive Target": {
     "guaranteed_output": [
       {
@@ -4934,10 +4925,6 @@
     ],
     "extra_chance_output": []
   },
-  "Apple": "No recycling tab found in the HTML content.",
-  "Rotten Apple": "No recycling tab found in the HTML content.",
-  "Black Raspberries": "No recycling tab found in the HTML content.",
-  "Blueberries": "No recycling tab found in the HTML content.",
   "Bota Bag": {
     "guaranteed_output": [
       {
@@ -4947,68 +4934,6 @@
     ],
     "extra_chance_output": []
   },
-  "Bread Loaf": "No recycling tab found in the HTML content.",
-  "Grub": "No recycling tab found in the HTML content.",
-  "Worm": "No recycling tab found in the HTML content.",
-  "Cactus Flesh": "No recycling tab found in the HTML content.",
-  "Can of Beans": "No recycling tab found in the HTML content.",
-  "Can of Tuna": "No recycling tab found in the HTML content.",
-  "Chocolate Bar": "No recycling tab found in the HTML content.",
-  "Egg": "No recycling tab found in the HTML content.",
-  "Anchovy": "No recycling tab found in the HTML content.",
-  "Catfish": "No recycling tab found in the HTML content.",
-  "Herring": "No recycling tab found in the HTML content.",
-  "Minnows": "No recycling tab found in the HTML content.",
-  "Orange Roughy": "No recycling tab found in the HTML content.",
-  "Salmon": "No recycling tab found in the HTML content.",
-  "Sardine": "No recycling tab found in the HTML content.",
-  "Small Shark": "No recycling tab found in the HTML content.",
-  "Small Trout": "No recycling tab found in the HTML content.",
-  "Yellow Perch": "No recycling tab found in the HTML content.",
-  "Granola Bar": "No recycling tab found in the HTML content.",
-  "Jar of Honey": "No recycling tab found in the HTML content.",
-  "Beehive Nucleus": "No recycling tab found in the HTML content.",
-  "Burnt Bear Meat": "No recycling tab found in the HTML content.",
-  "Cooked Bear Meat": "No recycling tab found in the HTML content.",
-  "Raw Bear Meat": "No recycling tab found in the HTML content.",
-  "Spoiled Bear Meat": "No recycling tab found in the HTML content.",
-  "Burnt Chicken": "No recycling tab found in the HTML content.",
-  "Cooked Chicken": "No recycling tab found in the HTML content.",
-  "Raw Chicken Breast": "No recycling tab found in the HTML content.",
-  "Spoiled Chicken": "No recycling tab found in the HTML content.",
-  "Burnt Deer Meat": "No recycling tab found in the HTML content.",
-  "Cooked Deer Meat": "No recycling tab found in the HTML content.",
-  "Raw Deer Meat": "No recycling tab found in the HTML content.",
-  "Spoiled Deer Meat": "No recycling tab found in the HTML content.",
-  "Cooked Fish": "No recycling tab found in the HTML content.",
-  "Raw Fish": "No recycling tab found in the HTML content.",
-  "Spoiled Fish Meat": "No recycling tab found in the HTML content.",
-  "Burnt Horse Meat": "No recycling tab found in the HTML content.",
-  "Cooked Horse Meat": "No recycling tab found in the HTML content.",
-  "Raw Horse Meat": "No recycling tab found in the HTML content.",
-  "Spoiled Horse Meat": "No recycling tab found in the HTML content.",
-  "Burnt Human Meat": "No recycling tab found in the HTML content.",
-  "Cooked Human Meat": "No recycling tab found in the HTML content.",
-  "Raw Human Meat": "No recycling tab found in the HTML content.",
-  "Spoiled Human Meat": "No recycling tab found in the HTML content.",
-  "Burnt Pork": "No recycling tab found in the HTML content.",
-  "Cooked Pork": "No recycling tab found in the HTML content.",
-  "Raw Pork": "No recycling tab found in the HTML content.",
-  "Spoiled Pork Meat": "No recycling tab found in the HTML content.",
-  "Burnt Wolf Meat": "No recycling tab found in the HTML content.",
-  "Cooked Wolf Meat": "No recycling tab found in the HTML content.",
-  "Raw Wolf Meat": "No recycling tab found in the HTML content.",
-  "Spoiled Wolf Meat": "No recycling tab found in the HTML content.",
-  "Mushroom": "No recycling tab found in the HTML content.",
-  "Pickles": "No recycling tab found in the HTML content.",
-  "Apple Pie": "No recycling tab found in the HTML content.",
-  "Bear Pie": "No recycling tab found in the HTML content.",
-  "Chicken Pie": "No recycling tab found in the HTML content.",
-  "Fish Pie": "No recycling tab found in the HTML content.",
-  "Hunters Pie": "No recycling tab found in the HTML content.",
-  "Pork Pie": "No recycling tab found in the HTML content.",
-  "Pumpkin Pie": "No recycling tab found in the HTML content.",
-  "Small Water Bottle": "No recycling tab found in the HTML content.",
   "Water Jug": {
     "guaranteed_output": [
       {
@@ -5366,7 +5291,6 @@
     ],
     "extra_chance_output": []
   },
-  "Head Bag": "No recycling tab found in the HTML content.",
   "Fish Trophy": {
     "guaranteed_output": [
       {
@@ -5622,11 +5546,6 @@
       }
     ]
   },
-  "Bronze Egg": "No recycling tab found in the HTML content.",
-  "Gold Egg": "No recycling tab found in the HTML content.",
-  "Painted Egg": "No recycling tab found in the HTML content.",
-  "Silver Egg": "No recycling tab found in the HTML content.",
-  "Halloween Candy": "No recycling tab found in the HTML content.",
   "Large Candle Set": {
     "guaranteed_output": [
       {
@@ -5909,9 +5828,6 @@
     ],
     "extra_chance_output": []
   },
-  "Large Loot Bag": "No recycling tab found in the HTML content.",
-  "Medium Loot Bag": "No recycling tab found in the HTML content.",
-  "Small Loot Bag": "No recycling tab found in the HTML content.",
   "Pumpkin Basket": {
     "guaranteed_output": [
       {
@@ -5975,7 +5891,6 @@
       }
     ]
   },
-  "Spider Webs": "No recycling tab found in the HTML content.",
   "Spooky Speaker": {
     "guaranteed_output": [
       {
@@ -6135,7 +6050,6 @@
     ],
     "extra_chance_output": []
   },
-  "Human Skull": "No recycling tab found in the HTML content.",
   "Small Backpack": {
     "guaranteed_output": [
       {
@@ -6271,7 +6185,6 @@
       }
     ]
   },
-  "Photograph": "No recycling tab found in the HTML content.",
   "Landscape Photo Frame": {
     "guaranteed_output": [
       {
@@ -6362,7 +6275,6 @@
     ],
     "extra_chance_output": []
   },
-  "Twitch Rivals Flag": "No recycling tab found in the HTML content.",
   "Advent Calendar": {
     "guaranteed_output": [
       {
@@ -6376,7 +6288,6 @@
     ],
     "extra_chance_output": []
   },
-  "Candy Cane Club": "No recycling tab found in the HTML content.",
   "Christmas Lights": {
     "guaranteed_output": [
       {
@@ -6408,7 +6319,6 @@
     ],
     "extra_chance_output": []
   },
-  "Candy Cane": "No recycling tab found in the HTML content.",
   "Giant Candy Decor": {
     "guaranteed_output": [
       {
@@ -6503,7 +6413,6 @@
     ],
     "extra_chance_output": []
   },
-  "Pookie Bear": "No recycling tab found in the HTML content.",
   "Deluxe Christmas Lights": {
     "guaranteed_output": [
       {
@@ -6513,9 +6422,6 @@
     ],
     "extra_chance_output": []
   },
-  "Large Present": "No recycling tab found in the HTML content.",
-  "Medium Present": "No recycling tab found in the HTML content.",
-  "Small Present": "No recycling tab found in the HTML content.",
   "Sled": {
     "guaranteed_output": [
       {
@@ -6543,7 +6449,6 @@
       }
     ]
   },
-  "Snowball": "No recycling tab found in the HTML content.",
   "Snowball Gun": {
     "guaranteed_output": [
       {
@@ -6579,9 +6484,6 @@
     ],
     "extra_chance_output": []
   },
-  "SUPER Stocking": "No recycling tab found in the HTML content.",
-  "Small Stocking": "No recycling tab found in the HTML content.",
-  "Gingerbread Suit": "No recycling tab found in the HTML content.",
   "Reindeer Antlers": {
     "guaranteed_output": [
       {
@@ -6600,7 +6502,6 @@
     ],
     "extra_chance_output": []
   },
-  "Santa Hat": "No recycling tab found in the HTML content.",
   "Snowman Helmet": {
     "guaranteed_output": [
       {
@@ -6619,8 +6520,6 @@
     ],
     "extra_chance_output": []
   },
-  "Wrapped Gift": "No recycling tab found in the HTML content.",
-  "Wrapping Paper": "No recycling tab found in the HTML content.",
   "Christmas Door Wreath": {
     "guaranteed_output": [
       {
@@ -6722,8 +6621,6 @@
     ],
     "extra_chance_output": []
   },
-  "Fishing Tackle": "No recycling tab found in the HTML content.",
-  "Vodka Bottle": "No recycling tab found in the HTML content.",
   "Auto Turret": {
     "guaranteed_output": [
       {
@@ -6764,7 +6661,6 @@
       }
     ]
   },
-  "Glowing Eyes": "No recycling tab found in the HTML content.",
   "SAM Ammo": {
     "guaranteed_output": [
       {
@@ -6788,50 +6684,6 @@
     ],
     "extra_chance_output": []
   },
-  "Black Berry": "No recycling tab found in the HTML content.",
-  "Black Berry Clone": "No recycling tab found in the HTML content.",
-  "Black Berry Seed": "No recycling tab found in the HTML content.",
-  "Blue Berry": "No recycling tab found in the HTML content.",
-  "Blue Berry Clone": "No recycling tab found in the HTML content.",
-  "Blue Berry Seed": "No recycling tab found in the HTML content.",
-  "Green Berry": "No recycling tab found in the HTML content.",
-  "Green Berry Clone": "No recycling tab found in the HTML content.",
-  "Green Berry Seed": "No recycling tab found in the HTML content.",
-  "Red Berry": "No recycling tab found in the HTML content.",
-  "Red Berry Clone": "No recycling tab found in the HTML content.",
-  "Red Berry Seed": "No recycling tab found in the HTML content.",
-  "White Berry": "No recycling tab found in the HTML content.",
-  "White Berry Clone": "No recycling tab found in the HTML content.",
-  "White Berry Seed": "No recycling tab found in the HTML content.",
-  "Yellow Berry": "No recycling tab found in the HTML content.",
-  "Yellow Berry Clone": "No recycling tab found in the HTML content.",
-  "Yellow Berry Seed": "No recycling tab found in the HTML content.",
-  "Corn": "No recycling tab found in the HTML content.",
-  "Corn Clone": "No recycling tab found in the HTML content.",
-  "Corn Seed": "No recycling tab found in the HTML content.",
-  "Hemp Clone": "No recycling tab found in the HTML content.",
-  "Hemp Seed": "No recycling tab found in the HTML content.",
-  "Orchid": "No recycling tab found in the HTML content.",
-  "Orchid Clone": "No recycling tab found in the HTML content.",
-  "Orchid Seed": "No recycling tab found in the HTML content.",
-  "Potato": "No recycling tab found in the HTML content.",
-  "Potato Clone": "No recycling tab found in the HTML content.",
-  "Potato Seed": "No recycling tab found in the HTML content.",
-  "Pumpkin": "No recycling tab found in the HTML content.",
-  "Pumpkin Plant Clone": "No recycling tab found in the HTML content.",
-  "Pumpkin Seed": "No recycling tab found in the HTML content.",
-  "Rose": "No recycling tab found in the HTML content.",
-  "Rose Clone": "No recycling tab found in the HTML content.",
-  "Rose Seed": "No recycling tab found in the HTML content.",
-  "Sunflower": "No recycling tab found in the HTML content.",
-  "Sunflower Clone": "No recycling tab found in the HTML content.",
-  "Sunflower Seed": "No recycling tab found in the HTML content.",
-  "Wheat": "No recycling tab found in the HTML content.",
-  "Wheat Clone": "No recycling tab found in the HTML content.",
-  "Wheat Seed": "No recycling tab found in the HTML content.",
-  "Animal Fat": "No recycling tab found in the HTML content.",
-  "Blood": "No recycling tab found in the HTML content.",
-  "Bone Fragments": "No recycling tab found in the HTML content.",
   "CCTV Camera": {
     "guaranteed_output": [
       {
@@ -6854,10 +6706,6 @@
       }
     ]
   },
-  "Charcoal": "No recycling tab found in the HTML content.",
-  "Cloth": "No recycling tab found in the HTML content.",
-  "Crude Oil": "No recycling tab found in the HTML content.",
-  "Diesel Fuel": "No recycling tab found in the HTML content.",
   "Empty Can Of Beans": {
     "guaranteed_output": [
       {
@@ -6907,7 +6755,6 @@
       }
     ]
   },
-  "Fertilizer": "No recycling tab found in the HTML content.",
   "Gun Powder": {
     "guaranteed_output": [
       {
@@ -6930,11 +6777,6 @@
       }
     ]
   },
-  "Honeycomb": "No recycling tab found in the HTML content.",
-  "Horse Dung": "No recycling tab found in the HTML content.",
-  "High Quality Metal Ore": "No recycling tab found in the HTML content.",
-  "High Quality Metal": "No recycling tab found in the HTML content.",
-  "Leather": "No recycling tab found in the HTML content.",
   "Low Grade Fuel": {
     "guaranteed_output": [],
     "extra_chance_output": [
@@ -6948,15 +6790,6 @@
       }
     ]
   },
-  "Metal Fragments": "No recycling tab found in the HTML content.",
-  "Metal Ore": "No recycling tab found in the HTML content.",
-  "Plant Fiber": "No recycling tab found in the HTML content.",
-  "Radioactive Water": "No recycling tab found in the HTML content.",
-  "Salt Water": "No recycling tab found in the HTML content.",
-  "Scrap": "No recycling tab found in the HTML content.",
-  "Stones": "No recycling tab found in the HTML content.",
-  "Sulfur Ore": "No recycling tab found in the HTML content.",
-  "Sulfur": "No recycling tab found in the HTML content.",
   "Targeting Computer": {
     "guaranteed_output": [
       {
@@ -6979,33 +6812,6 @@
       }
     ]
   },
-  "Water": "No recycling tab found in the HTML content.",
-  "Wolf Skull": "No recycling tab found in the HTML content.",
-  "Wood": "No recycling tab found in the HTML content.",
-  "Cooling Tea": "No recycling tab found in the HTML content.",
-  "Crafting Quality Tea": "No recycling tab found in the HTML content.",
-  "Harvesting Tea": "No recycling tab found in the HTML content.",
-  "Advanced Healing Tea": "No recycling tab found in the HTML content.",
-  "Basic Healing Tea": "No recycling tab found in the HTML content.",
-  "Pure Healing Tea": "No recycling tab found in the HTML content.",
-  "Advanced Max Health Tea": "No recycling tab found in the HTML content.",
-  "Basic Max Health Tea": "No recycling tab found in the HTML content.",
-  "Pure Max Health Tea": "No recycling tab found in the HTML content.",
-  "Advanced Ore Tea": "No recycling tab found in the HTML content.",
-  "Basic Ore Tea": "No recycling tab found in the HTML content.",
-  "Pure Ore Tea": "No recycling tab found in the HTML content.",
-  "Advanced Anti-Rad Tea": "No recycling tab found in the HTML content.",
-  "Basic Anti-Rad Tea": "No recycling tab found in the HTML content.",
-  "Pure Anti-Rad Tea": "No recycling tab found in the HTML content.",
-  "Advanced Scrap Tea": "No recycling tab found in the HTML content.",
-  "Basic Scrap Tea": "No recycling tab found in the HTML content.",
-  "Pure Scrap Tea": "No recycling tab found in the HTML content.",
-  "Super Serum": "No recycling tab found in the HTML content.",
-  "Warming Tea": "No recycling tab found in the HTML content.",
-  "Advanced Wood Tea": "No recycling tab found in the HTML content.",
-  "Basic Wood Tea": "No recycling tab found in the HTML content.",
-  "Pure Wood Tea": "No recycling tab found in the HTML content.",
-  "Anti-Radiation Pills": "No recycling tab found in the HTML content.",
   "Binoculars": {
     "guaranteed_output": [
       {
@@ -7042,7 +6848,6 @@
       }
     ]
   },
-  "Camera": "No recycling tab found in the HTML content.",
   "RF Transmitter": {
     "guaranteed_output": [
       {
@@ -7142,9 +6947,6 @@
       }
     ]
   },
-  "Blue Keycard": "No recycling tab found in the HTML content.",
-  "Green Keycard": "No recycling tab found in the HTML content.",
-  "Red Keycard": "No recycling tab found in the HTML content.",
   "Large Medkit": {
     "guaranteed_output": [
       {
@@ -7274,7 +7076,6 @@
     ],
     "extra_chance_output": []
   },
-  "Supply Signal": "No recycling tab found in the HTML content.",
   "Survey Charge": {
     "guaranteed_output": [
       {
@@ -7918,7 +7719,6 @@
     ],
     "extra_chance_output": []
   },
-  "Birthday Cake": "No recycling tab found in the HTML content.",
   "Chainsaw": {
     "guaranteed_output": [
       {
