@@ -7947,19 +7947,6 @@
       }
     ]
   },
-  "Baseball Bat": {
-    "guaranteed_output": [
-      {
-        "item": "Metal Fragments",
-        "quantity": "30"
-      },
-      {
-        "item": "Wood",
-        "quantity": "60"
-      }
-    ],
-    "extra_chance_output": []
-  },
   "Butcher Knife": {
     "guaranteed_output": [
       {
