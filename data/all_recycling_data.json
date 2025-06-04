@@ -367,22 +367,36 @@
       }
     ]
   },
-  "Propane Explosive Bomb": {
+  "Bee Catapult Bomb": {
     "guaranteed_output": [
       {
-        "item": "Explosives",
-        "quantity": "3"
+        "item": "Bee Grenade",
+        "quantity": "1"
       },
       {
-        "item": "Gun Powder",
-        "quantity": "90"
+        "item": "Wood",
+        "quantity": "120"
       }
     ],
     "extra_chance_output": [
       {
-        "item": "Explosives",
-        "chance": "60%"
+        "item": "Bee Grenade",
+        "chance": "80%"
+      }
+    ]
+  },
+  "Propane Explosive Bomb": {
+    "guaranteed_output": [
+      {
+        "item": "Low Grade Fuel",
+        "quantity": "12"
       },
+      {
+        "item": "Gun Powder",
+        "quantity": "270"
+      }
+    ],
+    "extra_chance_output": [
       {
         "item": "Empty Propane Tank",
         "chance": "60%"
@@ -589,12 +603,66 @@
       }
     ]
   },
-  "Bone Dart": {
+  "Incapacitate Dart": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "1"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Snake Venom",
+        "chance": "30%"
+      },
+      {
+        "item": "Wood",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Radiation Dart": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "1"
+      },
+      {
+        "item": "Wood",
+        "quantity": "7"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Fragments",
+        "chance": "50%"
+      },
+      {
+        "item": "Wood",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Scatter Dart": {
     "guaranteed_output": [
       {
         "item": "Stones",
         "quantity": "3"
       },
+      {
+        "item": "Wood",
+        "quantity": "7"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Wood",
+        "chance": "50%"
+      }
+    ]
+  },
+  "Wood Dart": {
+    "guaranteed_output": [
       {
         "item": "Wood",
         "quantity": "7"
@@ -1282,6 +1350,61 @@
     ],
     "extra_chance_output": []
   },
+  "Coconut Armor Gloves": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Coconut Armor Helmet": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Coconut Armor Pants": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
+  "Coconut Armor Chestplate": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
+  },
   "Diving Fins": {
     "guaranteed_output": [
       {
@@ -1394,6 +1517,19 @@
       {
         "item": "Sewing Kit",
         "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wood Armor Gloves": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "9"
+      },
+      {
+        "item": "Wood",
+        "quantity": "60"
       }
     ],
     "extra_chance_output": []
@@ -2255,6 +2391,32 @@
     ],
     "extra_chance_output": []
   },
+  "Outbreak Scientist Suit": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "4"
+      },
+      {
+        "item": "Sewing Kit",
+        "quantity": "1"
+      },
+      {
+        "item": "Tarp",
+        "quantity": "3"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "High Quality Metal",
+        "chance": "80%"
+      },
+      {
+        "item": "Sewing Kit",
+        "chance": "20%"
+      }
+    ]
+  },
   "Longsleeve T-Shirt": {
     "guaranteed_output": [
       {
@@ -2916,10 +3078,15 @@
     "guaranteed_output": [
       {
         "item": "Wood",
-        "quantity": "120"
+        "quantity": "180"
       }
     ],
-    "extra_chance_output": []
+    "extra_chance_output": [
+      {
+        "item": "Sheet Metal",
+        "chance": "60%"
+      }
+    ]
   },
   "Camp Fire": {
     "guaranteed_output": [
@@ -2968,11 +3135,20 @@
   "Chicken Coop": {
     "guaranteed_output": [
       {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
         "item": "Wood",
-        "quantity": "120"
+        "quantity": "180"
       }
     ],
-    "extra_chance_output": []
+    "extra_chance_output": [
+      {
+        "item": "Rope",
+        "chance": "60%"
+      }
+    ]
   },
   "Clan Table": {
     "guaranteed_output": [
@@ -3321,6 +3497,15 @@
     ],
     "extra_chance_output": []
   },
+  "Half Height Bamboo Shelves": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "24"
+      }
+    ],
+    "extra_chance_output": []
+  },
   "Frankenstein Table": {
     "guaranteed_output": [
       {
@@ -3481,6 +3666,32 @@
       {
         "item": "Wood",
         "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Wicker Barrel": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Bamboo Barrel": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
       }
     ],
     "extra_chance_output": []
@@ -4726,6 +4937,15 @@
         "chance": "80%"
       }
     ]
+  },
+  "Single Shallow Wall Shelves": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "60"
+      }
+    ],
+    "extra_chance_output": []
   },
   "Large Water Catcher": {
     "guaranteed_output": [
@@ -6013,6 +6233,15 @@
         "chance": "20%"
       }
     ]
+  },
+  "Blue Industrial Wall Light": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
   },
   "Green Industrial Wall Light": {
     "guaranteed_output": [
@@ -7445,13 +7674,25 @@
       }
     ]
   },
-  "Wallpaper": {
+  "Wallpaper Ceiling": {
+    "guaranteed_output": [],
+    "extra_chance_output": []
+  },
+  "Wallpaper Flooring": {
+    "guaranteed_output": [],
+    "extra_chance_output": []
+  },
+  "Wallpaper Tool": {
     "guaranteed_output": [
       {
         "item": "Cloth",
-        "quantity": "3"
+        "quantity": "6"
       }
     ],
+    "extra_chance_output": []
+  },
+  "Wallpaper Wall": {
+    "guaranteed_output": [],
     "extra_chance_output": []
   },
   "Variable Zoom Scope": {
@@ -7577,11 +7818,20 @@
       }
     ]
   },
-  "Silencer": {
+  "Oil Filter Silencer": {
     "guaranteed_output": [
       {
         "item": "High Quality Metal",
-        "quantity": "3"
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Soda Can Silencer": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "24"
       }
     ],
     "extra_chance_output": []
@@ -7594,6 +7844,20 @@
       }
     ],
     "extra_chance_output": []
+  },
+  "Targeting Attachment": {
+    "guaranteed_output": [
+      {
+        "item": "High Quality Metal",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Tech Trash",
+        "chance": "60%"
+      }
+    ]
   },
   "Assault Rifle": {
     "guaranteed_output": [
@@ -7662,6 +7926,24 @@
       }
     ]
   },
+  "Blow Pipe": {
+    "guaranteed_output": [
+      {
+        "item": "Cloth",
+        "quantity": "15"
+      },
+      {
+        "item": "Wood",
+        "quantity": "120"
+      }
+    ],
+    "extra_chance_output": [
+      {
+        "item": "Metal Pipe",
+        "chance": "60%"
+      }
+    ]
+  },
   "Bolt Action Rifle": {
     "guaranteed_output": [
       {
@@ -7702,6 +7984,24 @@
       {
         "item": "Bone Fragments",
         "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Obsidian Bone Knife": {
+    "guaranteed_output": [
+      {
+        "item": "Bone Fragments",
+        "quantity": "18"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Boomerang": {
+    "guaranteed_output": [
+      {
+        "item": "Wood",
+        "quantity": "180"
       }
     ],
     "extra_chance_output": []
@@ -8577,6 +8877,15 @@
     ]
   },
   "Rock": {
+    "guaranteed_output": [
+      {
+        "item": "Stones",
+        "quantity": "6"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Jungle Rock": {
     "guaranteed_output": [
       {
         "item": "Stones",
