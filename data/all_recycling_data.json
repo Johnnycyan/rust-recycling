@@ -1070,7 +1070,7 @@
       }
     ]
   },
-  "High External Frontier Gate": {
+  "High External Legacy Gate": {
     "guaranteed_output": [
       {
         "item": "Gears",
@@ -1160,7 +1160,7 @@
       }
     ]
   },
-  "High External Frontier Wall": {
+  "High External Legacy Wall": {
     "guaranteed_output": [
       {
         "item": "Wood",
@@ -3666,6 +3666,32 @@
       {
         "item": "Wood",
         "quantity": "150"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Abyss Horizontal Storage Tank": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
+      }
+    ],
+    "extra_chance_output": []
+  },
+  "Abyss Vertical Storage Tank": {
+    "guaranteed_output": [
+      {
+        "item": "Metal Fragments",
+        "quantity": "45"
+      },
+      {
+        "item": "Wood",
+        "quantity": "180"
       }
     ],
     "extra_chance_output": []
@@ -6180,15 +6206,6 @@
         "chance": "40%"
       }
     ]
-  },
-  "Light-Up Frame Large": {
-    "guaranteed_output": [
-      {
-        "item": "Wood",
-        "quantity": "90"
-      }
-    ],
-    "extra_chance_output": []
   },
   "Movember Moustache": {
     "guaranteed_output": [
